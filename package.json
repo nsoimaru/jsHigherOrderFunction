@@ -1,0 +1,19 @@
+{
+  "name": "jshigherorderfunction",
+  "version": "1.0.0",
+  "description": "learning exercises for higher functions in java script",
+  "main": "main.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nsoimaru/jsHigherOrderFunction.git"
+  },
+  "author": "Nelu Soimaru",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nsoimaru/jsHigherOrderFunction/issues"
+  },
+  "homepage": "https://github.com/nsoimaru/jsHigherOrderFunction#readme"
+}
